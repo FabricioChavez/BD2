@@ -1,3 +1,4 @@
 D:/Semestre_2024-1_CS/BD 2/homework/cmake-build-debug/CMakeFiles/homework.dir
+D:/Semestre_2024-1_CS/BD 2/homework/cmake-build-debug/CMakeFiles/ejem.dir
 D:/Semestre_2024-1_CS/BD 2/homework/cmake-build-debug/CMakeFiles/edit_cache.dir
 D:/Semestre_2024-1_CS/BD 2/homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

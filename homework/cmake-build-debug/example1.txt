@@ -1,0 +1,3 @@
+casa|bonita|23
+hola|makinola|45
+365dias|year|666
